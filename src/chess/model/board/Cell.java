@@ -1,6 +1,6 @@
-package chess.board;
+package chess.model.board;
 
-import chess.pieces.Piece;
+import chess.model.pieces.Piece;
 
 /**
  * Class representing one cell of a ChessBoard.
